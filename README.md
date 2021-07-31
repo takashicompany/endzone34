@@ -48,7 +48,7 @@
 
 ### ① マスキングテープで表面にはんだが漏れないようにする
 
-(テープを見えやすくするために黒色のPCBで説明します)
+(テープを見えやすくするために黒色のPCBで説明します)  
 <img src="https://user-images.githubusercontent.com/4215759/126894591-0aa202f8-ddf5-49a7-866e-eff337febe99.jpg" width="600px">
 
 当キットではトッププレートとPCBを密着させる方式なので、表面にはんだが漏れて凹凸ができないように、マスキングテープなどで穴を塞ぎましょう。
@@ -57,51 +57,86 @@
 
 https://user-images.githubusercontent.com/4215759/126895350-43ae4cd4-408b-4ff4-ab5c-2903e0420978.mov
 
+PCBのダイオードのはんだづけ箇所の片方にはんだを乗せておき(予備はんだ)、ピンセットでダイオードを持ちながら予備はんだを溶かしながらダイオードをはんだづけします。  
+片方のはんだづけが終わったら、動画と同じく反対側をはんだづけしましょう。
+
 <img src="https://user-images.githubusercontent.com/4215759/126895375-f9ed7d87-6309-47e0-a9c6-8ba0dcb1f50a.jpg" width="600px">
 
+全部で34箇所あります。
 
 ## 3. キースイッチのはんだ付け
 
 ### ① トッププレート
 
+アクリル製のトッププレートを取り出します。  
 <img src="https://user-images.githubusercontent.com/4215759/126895380-a1f796a2-ae36-4808-9bd4-5b905b892258.jpg" width="600px">
+
+ネジ穴部分にアクリル栓が詰まっている場合は、ピンセットやネジで押し出すと取り出すことができます。  
+全てのネジ穴が空いていることを確認しましょう。 
 <img src="https://user-images.githubusercontent.com/4215759/126895396-c0a1bd8e-2ec5-4dfe-bb3b-8bd2f8c0f7a9.JPG" width="600px">
+
+トッププレートの台紙を剥がします。   
+剥がしづらい場合は、台紙を少し濡らすと剥がれやすくなります。
 <img src="https://user-images.githubusercontent.com/4215759/126895426-e8640625-1db9-4baa-8a32-026198d6a06e.jpg" width="600px">
+
+下記の画像のように両面を剥がします。  
 <img src="https://user-images.githubusercontent.com/4215759/126895437-3d4e0273-b667-4c01-8f44-bf94b0c98d5c.jpg" width="600px">
 
 ### ① トッププレートを仮止め
+
+当キーボードキットは、PCBとトッププレートを密着させる必要があるため、キースイッチのはんだ付けの際にトッププレートがぐらつかないようにすると作業が楽になります。  
+同梱しているネジとナットを使って、PCBの表側にトッププレートを固定しましょう。
 <img src="https://user-images.githubusercontent.com/4215759/126895447-308ed78c-42a7-4233-b667-47324edb83b9.jpg" width="600px">
 
+あくまで仮止めですので、全ての箇所を固定しなくても問題ありません。
+下記の画像は目安です。  
+固定できたらPCBとトッププレートに隙間が無いことを確認してください。
 <img src="https://user-images.githubusercontent.com/4215759/126895481-6ce317e6-be39-40ae-984d-888452d5d134.jpg" width="600px">
 
 
 ### ② キースイッチをはんだ付けする
-
+PCBとトッププレートを固定できたら、キースイッチのはんだ付けを行います。  
+キースイッチがズレないように、マスキングテープなどで固定すると作業が楽になります。
 <img src="https://user-images.githubusercontent.com/4215759/126895488-fe6b9e68-e52c-407f-99d6-171a6529950f.jpg" width="600px">
 
+各キースイッチ、2箇所をはんだ付けします。  
 <img src="https://user-images.githubusercontent.com/4215759/126895489-a5922c4b-b8d9-4cd1-9489-31fa1a8f5b84.jpg" width="600px">
 
+34個のキースイッチをはんだ付けできたら、高さがズレているものがないかを確認します。  
+加えて、再びPCBとトッププレートの間に隙間が無いことを確認します。
 <img src="https://user-images.githubusercontent.com/4215759/126895492-a566139d-4c8c-4a24-8d7d-7e2b8b899902.JPG" width="600px">
 
 
 ## 4. リセットスイッチのはんだ付け
+※リセットスイッチのはんだ付けは必須ではありません。組み立て後も、ピンセット等を用いて底面からリセット操作が可能です。
 
+### ① PCBの裏面からリセットスイッチを差し込む
 <img src="https://user-images.githubusercontent.com/4215759/126895513-850890f0-5a0d-4d82-aef1-96d515f441b8.jpg" width="600px">
 
+### ② PCBの表面からはんだづけをする
 <img src="https://user-images.githubusercontent.com/4215759/126895522-ec2ba4fd-2c97-4dfc-a83c-48aea7393018.JPG" width="600px">
 
+### ③ はんだ付けした部分を可能な限り平らにする
 <img src="https://user-images.githubusercontent.com/4215759/126895525-d86694ba-c97f-4b46-a288-1206dbca8fed.JPG" width="600px">
 
+Pro Microとぶつかってしまう可能性があるので、ニッパーなどで平らにします。
+
 <img src="https://user-images.githubusercontent.com/4215759/126895529-fdb3105b-c0b3-409e-beb0-6fee376ecae1.JPG" width="600px">
+
+### ④ 絶縁テープなどではんだ付け部分を覆う
 
 <img src="https://user-images.githubusercontent.com/4215759/126895533-0814e6e1-a732-43bd-86ee-b806592b716c.JPG" width="600px">
 
 ## 5. Pro Microの取り付け
 
+Pro Microをご用意いただきます。  
+PCBはコンスルーとはんだ付けの両対応をしています。  
 <img src="https://user-images.githubusercontent.com/4215759/126895543-56accb04-8077-454f-94be-085d3c845eaf.jpg" width="600px">
 
+Pro Microのチップなどが載っていない方を表側にし、PCBの表側に指します。
 <img src="https://user-images.githubusercontent.com/4215759/126895549-f8d90fb0-62f2-4dfa-81a0-af3d200127a1.JPG" width="600px">
 
+一度ここで、ProMicroをPCなどに繋ぎ、ファームウェアを焼いて動作確認をすると問題があった際に、対処が容易です。  
 <img src="https://user-images.githubusercontent.com/4215759/126895554-4dc2b0e9-85dd-43cd-94e3-fb11aa716727.JPG" width="600px">
 
 ## 6. Pro Microプレートの取り付け
