@@ -140,46 +140,62 @@ Pro Microのチップなどが載っていない方を表側にし、PCBの表�
 <img src="https://user-images.githubusercontent.com/4215759/126895554-4dc2b0e9-85dd-43cd-94e3-fb11aa716727.JPG" width="600px">
 
 ## 6. Pro Microプレートの取り付け
-
+まずはPro Microの側面プレートを取り付けます。  
+側面プレートは二種類あるので、お好みで選んでください。
 <img src="https://user-images.githubusercontent.com/4215759/126895680-4bd94580-d05f-48d8-85d3-459e2f21e28c.jpg" width="600px">
 
+台紙を剥がして、側面プレートを2枚トッププレートに載せます。  
 <img src="https://user-images.githubusercontent.com/4215759/126895684-b4fa8d95-6dea-4094-a893-0a0eb82f55be.jpg" width="600px">
 
+次にPro Microプレートを取り付けます。
 <img src="https://user-images.githubusercontent.com/4215759/126895697-443e4e40-8269-4075-bd0e-9fce353177f4.jpg" width="600px">
 
+台紙を剥がして、側面プレートの上に載せます。
 <img src="https://user-images.githubusercontent.com/4215759/126895702-e42f9994-50bd-474f-88f0-8d626ca4f466.jpg" width="600px">
 
+ネジとナットで固定します。
 <img src="https://user-images.githubusercontent.com/4215759/126895705-bd5703d4-1cb5-424f-bc2f-8316c95f99bd.jpg" width="600px">
 
+裏面は下記の写真のようにナットで抑えます。
 <img src="https://user-images.githubusercontent.com/4215759/126895714-fc3b19d0-3944-4e93-a1b8-4b8c3684a4d2.jpg" width="600px">
 
 ## 6. LEDの取り付け
 
+LEDの取り付けは必須ではありません。一度組み立てた後で取り付けることでも可能です。  
+LEDはWS2812Bを使用します。下記の画像の順番で取り付けます。 
 <img src="https://user-images.githubusercontent.com/4215759/126898714-dd84bf8a-0f16-42e6-a23e-a31729f15cd4.jpg" width="600px">
 
-<img src="https://user-images.githubusercontent.com/4215759/126898718-ab9db076-f06a-4815-853e-50a7978397e8.jpg" width="600px">
-
+取り付ける際に、PCBのプリント(角の塗りつぶし)とLEDの角の向きが合うようにします。 
 <img src="https://user-images.githubusercontent.com/4215759/126898731-9baded0d-d4ca-40aa-a9f6-068f9fe2a321.JPG" width="600px">
 
+まずは予備ハンダをします。利き腕側で手前の側の部分からはんだ付けをすると楽にできます。
 <img src="https://user-images.githubusercontent.com/4215759/126898744-23300a74-0750-41a6-bd80-d87521df9511.jpg" width="600px">
 
+一つのLEDの4箇所をはんだづけします。  
 <img src="https://user-images.githubusercontent.com/4215759/126898750-b483c58f-3f24-47ad-90ba-0691f00034ef.jpg" width="600px">
 
+一つはんだ付けができたら、LEDが光るかを確認しましょう。  
+USBでPCにキーボードを接続した後、`RGB_TOG`キーを押して、LEDが光るかを確認します。  
 <img src="https://user-images.githubusercontent.com/4215759/126898756-685618e8-bbce-4e0a-ba85-c973addb2beb.jpg" width="600px">
 
+全部で9つのLEDを取り付けられることができます。  
 <img src="https://user-images.githubusercontent.com/4215759/126898759-282007fd-3089-4eb0-8b3b-c8228f2afacd.jpg" width="600px">
 
 
 ## 7. ケースの組み立て
 
+側面プレートを取りだします。側面プレートは左右で分かれています。
 <img src="https://user-images.githubusercontent.com/4215759/126898770-d50f50d9-1583-4ffb-94e3-77e5cecc3eec.jpg" width="600px">
 
+ボトムプレートも取りだします。  
 <img src="https://user-images.githubusercontent.com/4215759/126898780-a9a70aba-c896-428a-82ed-cc0f741d1f81.jpg" width="600px">
 
+台紙を取り外して、側面プレートとボトムプレートをネジとナットで取り付けます。
 <img src="https://user-images.githubusercontent.com/4215759/126898857-2d92d840-b4a7-4438-8ee3-ebaf84119c3c.jpg" width="600px">
 
 <img src="https://user-images.githubusercontent.com/4215759/126898868-3e9a30e7-942d-445b-b667-a7a795960940.JPG" width="600px">
 
+側面プレートとボトムプレートを取り付けた後は、ゴム足をケースに貼ります。
 <img src="https://user-images.githubusercontent.com/4215759/126898870-df9cf744-0b1a-4a42-ba35-7c661f12075b.jpg" width="600px">
 
 
