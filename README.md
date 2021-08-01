@@ -1,4 +1,5 @@
 # EndZone34
+<img src="https://user-images.githubusercontent.com/4215759/127767496-e670e198-d244-4053-92b8-20776863d31d.png" width="600px">
 
 # 組み立て方
 
