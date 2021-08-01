@@ -72,7 +72,7 @@ PCBのダイオードのはんだづけ箇所の片方にはんだを乗せて�
 <img src="https://user-images.githubusercontent.com/4215759/126895380-a1f796a2-ae36-4808-9bd4-5b905b892258.jpg" width="600px">
 
 ネジ穴部分にアクリル栓が詰まっている場合は、ピンセットやネジで押し出すと取り出すことができます。  
-全てのネジ穴が空いていることを確認しましょう。 
+全てのネジ穴が空いていることを確認しましょう。  
 <img src="https://user-images.githubusercontent.com/4215759/126895396-c0a1bd8e-2ec5-4dfe-bb3b-8bd2f8c0f7a9.JPG" width="600px">
 
 トッププレートの台紙を剥がします。   
