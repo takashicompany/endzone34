@@ -141,22 +141,22 @@ Pro Microのチップなどが載っていない方を表側にし、PCBの表�
 
 ## 6. Pro Microプレートの取り付け
 まずはPro Microの側面プレートを取り付けます。  
-側面プレートは二種類あるので、お好みで選んでください。
+側面プレートは二種類あるので、お好みで選んでください。  
 <img src="https://user-images.githubusercontent.com/4215759/126895680-4bd94580-d05f-48d8-85d3-459e2f21e28c.jpg" width="600px">
 
-台紙を剥がして、側面プレートを2枚トッププレートに載せます。  
+台紙を剥がして、側面プレートを2枚トッププレートに載せます。    
 <img src="https://user-images.githubusercontent.com/4215759/126895684-b4fa8d95-6dea-4094-a893-0a0eb82f55be.jpg" width="600px">
 
-次にPro Microプレートを取り付けます。
+次にPro Microプレートを取り付けます。  
 <img src="https://user-images.githubusercontent.com/4215759/126895697-443e4e40-8269-4075-bd0e-9fce353177f4.jpg" width="600px">
 
-台紙を剥がして、側面プレートの上に載せます。
+台紙を剥がして、側面プレートの上に載せます。  
 <img src="https://user-images.githubusercontent.com/4215759/126895702-e42f9994-50bd-474f-88f0-8d626ca4f466.jpg" width="600px">
 
-ネジとナットで固定します。
+ネジとナットで固定します。  
 <img src="https://user-images.githubusercontent.com/4215759/126895705-bd5703d4-1cb5-424f-bc2f-8316c95f99bd.jpg" width="600px">
 
-裏面は下記の写真のようにナットで抑えます。
+裏面は下記の写真のようにナットで抑えます。  
 <img src="https://user-images.githubusercontent.com/4215759/126895714-fc3b19d0-3944-4e93-a1b8-4b8c3684a4d2.jpg" width="600px">
 
 ## 6. LEDの取り付け
