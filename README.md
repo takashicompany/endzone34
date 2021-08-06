@@ -140,6 +140,8 @@ Pro Microのチップなどが載っていない方を表側にし、PCBの表�
 一度ここで、ProMicroをPCなどに繋ぎ、ファームウェアを焼いて動作確認をすると問題があった際に、対処が容易です。  
 <img src="https://user-images.githubusercontent.com/4215759/126895554-4dc2b0e9-85dd-43cd-94e3-fb11aa716727.JPG" width="600px">
 
+ファームウェアは[こちら](https://github.com/takashicompany/endzone34/blob/master/README.md#%E3%83%95%E3%82%A1%E3%83%BC%E3%83%A0%E3%82%A6%E3%82%A7%E3%82%A2)。
+
 ## 6. Pro Microプレートの取り付け
 まずはPro Microの側面プレートを取り付けます。  
 側面プレートは二種類あるので、お好みで選んでください。  
