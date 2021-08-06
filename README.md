@@ -199,5 +199,14 @@ USBでPCにキーボードを接続した後、`RGB_TOG`キーを押して、LED
 側面プレートとボトムプレートを取り付けた後は、ゴム足をケースに貼ります。
 <img src="https://user-images.githubusercontent.com/4215759/126898870-df9cf744-0b1a-4a42-ba35-7c661f12075b.jpg" width="600px">
 
+# ファームウェア
+
+## ファームウェアは[こちら](https://github.com/takashicompany/qmk_firmware/tree/endzone34)のリポジトリのものをお使いください。  
+- branch: endzone34
+- path: [keyboards/takashicompany/endzone34] (https://github.com/takashicompany/qmk_firmware/tree/endzone34/keyboards/takashicompany/endzone34)
+
+## [qmk_firmware本家へのプルリクエスト](https://github.com/qmk/qmk_firmware/pull/13847)
+
+
 
 
