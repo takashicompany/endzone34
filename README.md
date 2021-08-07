@@ -1,5 +1,9 @@
 # EndZone34
-<img src="https://github.com/takashicompany/endzone34/blob/master/images/main.jpg?raw=true" width="600px">
+<img src="https://github.com/takashicompany/endzone34/blob/master/images/01.jpg?raw=true" width="600px">
+
+ミニマルな34キーのキーボードです。  
+LEDとOLED、MXソケットに対応しています。
+
 
 # 組み立て方
 
@@ -29,10 +33,14 @@
 |Pro Micro|1|必要な場合はコンスルーもご用意ください|
 
 ### MXソケットを利用する際に必要な部品
+
+PCBがMXソケットに対応しているため、スペーサーとネジを別途ご用意頂き、キースイッチの付け替えが可能になります。
+(MXソケットを使用する場合は側面プレートを取り付けることはできません。)
+
 |項目|個数|備考|
 |:--|:--|:--|
 |MXソケット|34||
-|両雌ネジスペーサー4mm|8|
+|両雌ネジスペーサー 4mm以上|8|
 |M2ネジ 4mm|16|
 
 ## 2. ダイオードのはんだ付け
@@ -101,6 +109,7 @@ PCBとトッププレートを固定できたら、キースイッチのはん�
 <img src="https://user-images.githubusercontent.com/4215759/126895488-fe6b9e68-e52c-407f-99d6-171a6529950f.jpg" width="600px">
 
 各キースイッチ、2箇所をはんだ付けします。  
+**取付箇所毎にキースイッチの向きが異なります。**  
 <img src="https://user-images.githubusercontent.com/4215759/126895489-a5922c4b-b8d9-4cd1-9489-31fa1a8f5b84.jpg" width="600px">
 
 34個のキースイッチをはんだ付けできたら、高さがズレているものがないかを確認します。  
