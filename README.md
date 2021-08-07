@@ -210,5 +210,5 @@ USBでPCにキーボードを接続した後、`RGB_TOG`キーを押して、LED
 ## [qmk_firmware本家へのプルリクエスト](https://github.com/qmk/qmk_firmware/pull/13847)
 
 ## VIA用のファームウェアは[こちら](https://github.com/takashicompany/endzone34/releases/download/via-0.0.1/takashicompany_endzone34_via.hex)
-
+- [Remap](https://remap-keys.app/)へ登録済みですので、上記のVIA対応したファームウェアをPro Microに書き込むことでブラウザからキーマップの変更が可能です。
 
