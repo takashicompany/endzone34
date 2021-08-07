@@ -140,6 +140,8 @@ Pro Microのチップなどが載っていない方を表側にし、PCBの表�
 一度ここで、ProMicroをPCなどに繋ぎ、ファームウェアを焼いて動作確認をすると問題があった際に、対処が容易です。  
 <img src="https://user-images.githubusercontent.com/4215759/126895554-4dc2b0e9-85dd-43cd-94e3-fb11aa716727.JPG" width="600px">
 
+ファームウェアは[こちら](https://github.com/takashicompany/endzone34/blob/master/README.md#%E3%83%95%E3%82%A1%E3%83%BC%E3%83%A0%E3%82%A6%E3%82%A7%E3%82%A2)。
+
 ## 6. Pro Microプレートの取り付け
 まずはPro Microの側面プレートを取り付けます。  
 側面プレートは二種類あるので、お好みで選んでください。  
@@ -199,5 +201,14 @@ USBでPCにキーボードを接続した後、`RGB_TOG`キーを押して、LED
 側面プレートとボトムプレートを取り付けた後は、ゴム足をケースに貼ります。
 <img src="https://user-images.githubusercontent.com/4215759/126898870-df9cf744-0b1a-4a42-ba35-7c661f12075b.jpg" width="600px">
 
+# ファームウェア
 
+## ファームウェアは[こちら](https://github.com/takashicompany/qmk_firmware/tree/endzone34)のリポジトリのものをお使いください。  
+- branch: endzone34
+- path: [keyboards/takashicompany/endzone34](https://github.com/takashicompany/qmk_firmware/tree/endzone34/keyboards/takashicompany/endzone34)
+
+## [qmk_firmware本家へのプルリクエスト](https://github.com/qmk/qmk_firmware/pull/13847)
+
+## VIA用のファームウェアは[こちら](https://github.com/takashicompany/endzone34/releases/download/via-0.0.1/takashicompany_endzone34_via.hex)
+- [Remap](https://remap-keys.app/)へ登録済みですので、上記のVIA対応したファームウェアをPro Microに書き込むことでブラウザからキーマップの変更が可能です。
 
