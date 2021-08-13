@@ -212,11 +212,9 @@ USBでPCにキーボードを接続した後、`RGB_TOG`キーを押して、LED
 
 # ファームウェア
 
-## ファームウェアは[こちら](https://github.com/takashicompany/qmk_firmware/tree/endzone34)のリポジトリのものをお使いください。  
-- branch: endzone34
-- path: [keyboards/takashicompany/endzone34](https://github.com/takashicompany/qmk_firmware/tree/endzone34/keyboards/takashicompany/endzone34)
-
-## [qmk_firmware本家へのプルリクエスト](https://github.com/qmk/qmk_firmware/pull/13847)
+## [QMK Firmware](https://github.com/qmk/qmk_firmware)
+- QMK Firmware公式に[マージ済み](https://github.com/qmk/qmk_firmware/pull/13847)です
+- [keyboards/takashicompany/endzone34](https://github.com/qmk/qmk_firmware/tree/master/keyboards/takashicompany/endzone34)にファームウェアを用意しております。
 
 ## VIA用のファームウェアは[こちら](https://github.com/takashicompany/endzone34/releases/download/via-0.0.1/takashicompany_endzone34_via.hex)
 - [Remap](https://remap-keys.app/)へ登録済みですので、上記のVIA対応したファームウェアをPro Microに書き込むことでブラウザからキーマップの変更が可能です。
