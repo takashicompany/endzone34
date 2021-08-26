@@ -145,9 +145,13 @@ PCBとトッププレートの仮止めとして、キースイッチを数個�
 <img src="https://user-images.githubusercontent.com/4215759/130914584-5a904de9-97eb-409a-9f0a-62029b2382ad.jpg" width="600px">
 
 ### ④ トッププレートにスペーサーを取り付ける
+
+以下の赤丸の箇所にスペーサーを取り付けます。  
+トッププレートとスペーサーをネジで固定します。
 <img src="https://user-images.githubusercontent.com/4215759/130913346-73cdc445-184c-42b2-86b9-32fa93fcf8db.jpg" width="600px">
 
-<img src="https://user-images.githubusercontent.com/4215759/130914683-540d89d2-b001-43f3-9c35-ce88b5c67f9e.jpg" width="600px">
+下記の写真のように、トッププレートからネジで固定されたスペーサーがPCBを貫通してPCBの裏側に出ていると正しく取り付けられています。
+<img src="https://user-images.githubusercontent.com/4215759/130919567-c3b19e0f-3aa8-426e-a505-f6feef43de17.jpg" width="600px">
 
 ## 4. リセットスイッチのはんだ付け
 ※リセットスイッチのはんだ付けは必須ではありません。組み立て後も、ピンセット等を用いて底面からリセット操作が可能です。
