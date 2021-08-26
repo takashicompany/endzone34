@@ -1,4 +1,4 @@
-# EndZone34
+F# EndZone34
 <img src="https://github.com/takashicompany/endzone34/blob/master/images/01.jpg?raw=true" width="600px">
 
 ミニマルな34キーのキーボードです。  
@@ -135,7 +135,7 @@ PCBとトッププレートを固定できたら、キースイッチのはん�
 PCBとトッププレートの仮止めとして、キースイッチを数個取り付けます。
 <img src="https://user-images.githubusercontent.com/4215759/130913892-a92a20e3-07d4-4a30-842e-7fbab8786a86.jpg" width="600px">
 
-以下は一例になります。
+以下は一例になります。  
 <img src="https://user-images.githubusercontent.com/4215759/130914164-16052508-99b8-425e-9912-5e8f743ec015.jpg" width="600px">
 
 キースイッチをいくつか取り付けた後に、PCBにはんだ付けしたMXソケットにトッププレートに仮止めしたキースイッチを取り付けます。
@@ -252,7 +252,7 @@ USBでPCにキーボードを接続した後、`RGB_TOG`キーを押して、LED
 
 ### MXソケットでキースイッチを取り付けた場合
 
-以下の箇所をネジ止めします。
+以下の赤丸の箇所をネジ止めします。  
 <img src="https://user-images.githubusercontent.com/4215759/130918068-1f28270c-306a-4f74-9756-10986f06874a.jpg" width="600px">
 
 # 8. ファームウェア
