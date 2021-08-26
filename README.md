@@ -75,6 +75,8 @@ PCBのダイオードのはんだづけ箇所の片方にはんだを乗せて�
 
 ## 3-a. キースイッチのはんだ付け
 
+キースイッチをはんだ付けする場合は、以下の手順になります。
+
 ### ① トッププレートを取り出す
 
 アクリル製のトッププレートを取り出します。  
@@ -118,27 +120,34 @@ PCBとトッププレートを固定できたら、キースイッチのはん�
 
 ## 3-b. MXソケットでキースイッチを取り付ける場合
 
+キースイッチをMXソケットではんだ付けする際は、以下の方法になります。
+なお、この場合は側面プレートではなく、スペーサーでトッププレートとボトムプレートを固定することとなります。
+
 ### ① PCBにMXソケットをはんだ付けする
-![IMG_7750 2](https://user-images.githubusercontent.com/4215759/130913743-2265f70a-8f87-489a-b21e-a28d4806142d.jpg
+<img src="https://user-images.githubusercontent.com/4215759/130913743-2265f70a-8f87-489a-b21e-a28d4806142d.jpg" width="600px">
 
 ### ② トッププレートを取り出す
 
 「3-a. ① トッププレートを取り出す」と同様にトッププレートを取りだします。
 
 ### ③ トッププレートにキースイッチを取り付ける
-![IMG_7756](https://user-images.githubusercontent.com/4215759/130913892-a92a20e3-07d4-4a30-842e-7fbab8786a86.jpg)
 
-![IMG_7759](https://user-images.githubusercontent.com/4215759/130914164-16052508-99b8-425e-9912-5e8f743ec015.jpg)
+PCBとトッププレートの仮止めとして、キースイッチを数個取り付けます。
+<img src="https://user-images.githubusercontent.com/4215759/130913892-a92a20e3-07d4-4a30-842e-7fbab8786a86.jpg" width="600px">
 
-![IMG_7761](https://user-images.githubusercontent.com/4215759/130914384-20df652b-4ba4-4f10-8206-29b138792810.jpg)
+以下は一例になります。
+<img src="https://user-images.githubusercontent.com/4215759/130914164-16052508-99b8-425e-9912-5e8f743ec015.jpg" width="600px">
 
-![IMG_7764](https://user-images.githubusercontent.com/4215759/130914584-5a904de9-97eb-409a-9f0a-62029b2382ad.jpg)
+キースイッチをいくつか取り付けた後に、PCBにはんだ付けしたMXソケットにトッププレートに仮止めしたキースイッチを取り付けます。
+<img src="https://user-images.githubusercontent.com/4215759/130914384-20df652b-4ba4-4f10-8206-29b138792810.jpg" width="600px">
+
+トッププレートがたわまないように気をつけながら、全てのMXソケットにキースイッチを付けていきます。
+<img src="https://user-images.githubusercontent.com/4215759/130914584-5a904de9-97eb-409a-9f0a-62029b2382ad.jpg" width="600px">
 
 ### ④ トッププレートにスペーサーを取り付ける
-![IMG_7770](https://user-images.githubusercontent.com/4215759/130913346-73cdc445-184c-42b2-86b9-32fa93fcf8db.jpg)
+<img src="https://user-images.githubusercontent.com/4215759/130913346-73cdc445-184c-42b2-86b9-32fa93fcf8db.jpg" width="600px">
 
-![IMG_7766](https://user-images.githubusercontent.com/4215759/130914683-540d89d2-b001-43f3-9c35-ce88b5c67f9e.jpg)
-
+<img src="https://user-images.githubusercontent.com/4215759/130914683-540d89d2-b001-43f3-9c35-ce88b5c67f9e.jpg" width="600px">
 
 ## 4. リセットスイッチのはんだ付け
 ※リセットスイッチのはんだ付けは必須ではありません。組み立て後も、ピンセット等を用いて底面からリセット操作が可能です。
@@ -194,6 +203,8 @@ Pro Microのチップなどが載っていない方を表側にし、PCBの表�
 裏面は下記の写真のようにナットで抑えます。  
 <img src="https://user-images.githubusercontent.com/4215759/126895714-fc3b19d0-3944-4e93-a1b8-4b8c3684a4d2.jpg" width="600px">
 
+MXソケットを利用する場合は、ナットの代わりにスペーサーを用いると良いです。
+
 ## 6. LEDの取り付け
 
 LEDの取り付けは必須ではありません。一度組み立てた後で取り付けることでも可能です。  
@@ -219,6 +230,8 @@ USBでPCにキーボードを接続した後、`RGB_TOG`キーを押して、LED
 
 ## 7. ケースの組み立て
 
+※ MXソケットでキースイッチを固定する場合は、側面プレートを取り付けることができません。
+
 側面プレートを取りだします。側面プレートは左右で分かれています。
 <img src="https://user-images.githubusercontent.com/4215759/126898770-d50f50d9-1583-4ffb-94e3-77e5cecc3eec.jpg" width="600px">
 
@@ -233,7 +246,12 @@ USBでPCにキーボードを接続した後、`RGB_TOG`キーを押して、LED
 側面プレートとボトムプレートを取り付けた後は、ゴム足をケースに貼ります。
 <img src="https://user-images.githubusercontent.com/4215759/126898870-df9cf744-0b1a-4a42-ba35-7c661f12075b.jpg" width="600px">
 
-# ファームウェア
+### MXソケットでキースイッチを取り付けた場合
+
+以下の箇所をネジ止めします。
+<img src="https://user-images.githubusercontent.com/4215759/130918068-1f28270c-306a-4f74-9756-10986f06874a.jpg" width="600px">
+
+# 8. ファームウェア
 
 ## [QMK Firmware](https://github.com/qmk/qmk_firmware)
 - QMK Firmware公式に[マージ済み](https://github.com/qmk/qmk_firmware/pull/13847)です
@@ -241,4 +259,15 @@ USBでPCにキーボードを接続した後、`RGB_TOG`キーを押して、LED
 
 ## VIA用のファームウェアは[こちら](https://github.com/takashicompany/endzone34/releases/download/via-0.0.1/takashicompany_endzone34_via.hex)
 - [Remap](https://remap-keys.app/)へ登録済みですので、上記のVIA対応したファームウェアをPro Microに書き込むことでブラウザからキーマップの変更が可能です。
+
+#　９. 自慢する
+
+完成しましたら、ぜひSNSなどに写真を投稿頂ければと思います。  
+Twitterのハッシュタグは`#EndZone34`を付けていただけば幸いです。  
+キットを組み立てた感想や、キーボードを使った所感などをお待ちしております！  
+
+ご不明な点などございましたら、[@takashicompany](https://twitter.com/takashicompany)にメンションやDM頂ければと思います！
+
+
+
 
