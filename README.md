@@ -1,4 +1,4 @@
-F# EndZone34
+# EndZone34
 <img src="https://github.com/takashicompany/endzone34/blob/master/images/01.jpg?raw=true" width="600px">
 
 ミニマルな34キーのキーボードです。  
