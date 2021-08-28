@@ -264,7 +264,7 @@ USBでPCにキーボードを接続した後、`RGB_TOG`キーを押して、LED
 ## VIA用のファームウェアは[こちら](https://github.com/takashicompany/endzone34/releases/download/via-0.0.1/takashicompany_endzone34_via.hex)
 - [Remap](https://remap-keys.app/)へ登録済みですので、上記のVIA対応したファームウェアをPro Microに書き込むことでブラウザからキーマップの変更が可能です。
 
-#　９. 自慢する
+# ９. 自慢する
 
 完成しましたら、ぜひSNSなどに写真を投稿頂ければと思います。  
 Twitterのハッシュタグは`#EndZone34`を付けていただけば幸いです。  
