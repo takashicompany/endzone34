@@ -266,7 +266,9 @@ USBでPCにキーボードを接続した後、`RGB_TOG`キーを押して、LED
 
 # 9. OLEDが点灯しない場合
 ファームウェアの容量の関係でVIAのファームウェアにOLEDが入っていないことがあります。  
-疎通を確認するために、[[デフォルトのファームウェア](https://github.com/takashicompany/endzone34/releases/download/via-0.0.2/takashicompany_endzone34_default.hex)で一度OLEDの確認をお願いします。
+疎通を確認するために、[デフォルトのファームウェア](https://github.com/takashicompany/endzone34/releases/download/via-0.0.2/takashicompany_endzone34_default.hex)で一度OLEDの確認をお願いします。
+
+<img src="https://github.com/takashicompany/endzone34/blob/master/images/08.jpg" width="600px">
 
 # 10. 自慢する
 
