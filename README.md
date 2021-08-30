@@ -261,17 +261,19 @@ USBでPCにキーボードを接続した後、`RGB_TOG`キーを押して、LED
 - QMK Firmware公式に[マージ済み](https://github.com/qmk/qmk_firmware/pull/13847)です
 - [keyboards/takashicompany/endzone34](https://github.com/qmk/qmk_firmware/tree/master/keyboards/takashicompany/endzone34)にファームウェアを用意しております。
 
-## VIA用のファームウェアは[こちら](https://github.com/takashicompany/endzone34/releases/download/via-0.0.1/takashicompany_endzone34_via.hex)
+## VIA用のファームウェアは[こちら](https://github.com/takashicompany/endzone34/releases/download/via-0.0.2/takashicompany_endzone34_via.hex)
 - [Remap](https://remap-keys.app/)へ登録済みですので、上記のVIA対応したファームウェアをPro Microに書き込むことでブラウザからキーマップの変更が可能です。
 
-# ９. 自慢する
+# 9. OLEDが点灯しない場合
+ファームウェアの容量の関係でVIAのファームウェアにOLEDが入っていないことがあります。  
+疎通を確認するために、[[デフォルトのファームウェア](https://github.com/takashicompany/endzone34/releases/download/via-0.0.2/takashicompany_endzone34_default.hex)で一度OLEDの確認をお願いします。
+
+# 10. 自慢する
 
 完成しましたら、ぜひSNSなどに写真を投稿頂ければと思います。  
 Twitterのハッシュタグは`#EndZone34`を付けていただけば幸いです。  
 キットを組み立てた感想や、キーボードを使った所感などをお待ちしております！  
 
 ご不明な点などございましたら、[@takashicompany](https://twitter.com/takashicompany)にメンションやDM頂ければと思います！
-
-
 
 
