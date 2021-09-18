@@ -1,11 +1,15 @@
 # EndZone34
-<img src="https://github.com/takashicompany/endzone34/blob/master/images/01.jpg?raw=true" width="600px">
+<img src="https://github.com/takashicompany/endzone34/blob/master/images/13.jpg?raw=true" width="600px">
 
 ミニマルな34キーのキーボードです。  
 LEDとOLED、MXソケットに対応しています。
 
 
 # 組み立て方
+
+## ビルドログ
+
+- [いとうひよこさんのNote](https://note.com/tsubuan_145/n/n91b1f3b4b958)
 
 ## 1. 部品の確認
 
@@ -261,8 +265,9 @@ USBでPCにキーボードを接続した後、`RGB_TOG`キーを押して、LED
 - QMK Firmware公式に[マージ済み](https://github.com/qmk/qmk_firmware/pull/13847)です
 - [keyboards/takashicompany/endzone34](https://github.com/qmk/qmk_firmware/tree/master/keyboards/takashicompany/endzone34)にファームウェアを用意しております。
 
-## VIA用のファームウェアは[こちら](https://github.com/takashicompany/endzone34/releases/download/via-0.0.2/takashicompany_endzone34_via.hex)
+## VIA用のファームウェアは[こちら](https://github.com/takashicompany/endzone34/releases/download/via-0.0.3/takashicompany_endzone34_via.hex)
 - [Remap](https://remap-keys.app/)へ登録済みですので、上記のVIA対応したファームウェアをPro Microに書き込むことでブラウザからキーマップの変更が可能です。
+- (2021/09/01) OLEDの表示とレイヤー数を8にしたファームウェアを追加しました。
 
 # 9. OLEDが点灯しない場合
 ファームウェアの容量の関係でVIAのファームウェアにOLEDが入っていないことがあります。  
