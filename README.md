@@ -281,6 +281,7 @@ USBでPCにキーボードを接続した後、`RGB_TOG`キーを押して、LED
 Twitterのハッシュタグは`#EndZone34`を付けていただけば幸いです。  
 キットを組み立てた感想や、キーボードを使った所感などをお待ちしております！  
 
+また、毎週日曜日の１9時より実施されている[#KEEP_PD](https://twitter.com/hashtag/KEEB_PD?f=live)に投稿頂くこともオススメです。  
+開催の告知は[@KEEB_PD](https://twitter.com/KEEB_PD)にて行われております。
+
 ご不明な点などございましたら、[@takashicompany](https://twitter.com/takashicompany)にメンションやDM頂ければと思います！
-
-
